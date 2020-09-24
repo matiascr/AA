@@ -1,0 +1,2 @@
+# AA
+Para aprendizaje automatico
